@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "999225208648",
-    "firebase_url": "https://co-nearshops.firebaseio.com",
-    "project_id": "co-nearshops",
-    "storage_bucket": "co-nearshops.appspot.com"
+    "project_number": "281751612141",
+    "firebase_url": "https://conearshop.firebaseio.com",
+    "project_id": "conearshop",
+    "storage_bucket": "conearshop.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:999225208648:android:df62cea6849b20175fcd7d",
+        "mobilesdk_app_id": "1:281751612141:android:37c38659e447abcb173ae4",
         "android_client_info": {
-          "package_name": "com.conearShop.coNearShop"
+          "package_name": "com.conear.conearshop"
         }
       },
       "oauth_client": [
         {
-          "client_id": "999225208648-5lfis9jn0gb7ml0h2dvp5tkom6080hca.apps.googleusercontent.com",
+          "client_id": "281751612141-fbq7keic00ncdi55rariu9ji0e3o02lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.conear.conearshop",
+            "certificate_hash": "40bf4b2dd5bb165114cf3ecb018735e6048205ca"
+          }
+        },
+        {
+          "client_id": "281751612141-tg2858k2rnhvucbgoua4nn5rcm15p96i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAi0s50fPaZ9ypZnGeGKTUS6iThnNcgH24"
+          "current_key": "AIzaSyBRJcYr-75i9IS2kNG9IfEXRTsFCWAmoGo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "999225208648-5lfis9jn0gb7ml0h2dvp5tkom6080hca.apps.googleusercontent.com",
+              "client_id": "281751612141-tg2858k2rnhvucbgoua4nn5rcm15p96i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
